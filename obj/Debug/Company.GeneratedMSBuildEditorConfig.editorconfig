@@ -1,0 +1,110 @@
+is_global = true
+build_property.GitIsDirty = 1
+
+[C:/Users/HAMI-PARS/source/repos/Company/Company/IsDirtyString]
+build_metadata.AdditionalFiles.SourceItemType = Constant
+build_metadata.Constant.Comment = 
+build_metadata.Constant.Value = true
+build_metadata.Constant.Root = Git
+
+[C:/Users/HAMI-PARS/source/repos/Company/Company/RepositoryUrl]
+build_metadata.AdditionalFiles.SourceItemType = Constant
+build_metadata.Constant.Comment = 
+build_metadata.Constant.Value = https://github.com/NaseriM1608/Company.git
+build_metadata.Constant.Root = Git
+
+[C:/Users/HAMI-PARS/source/repos/Company/Company/Branch]
+build_metadata.AdditionalFiles.SourceItemType = Constant
+build_metadata.Constant.Comment = 
+build_metadata.Constant.Value = master
+build_metadata.Constant.Root = Git
+
+[C:/Users/HAMI-PARS/source/repos/Company/Company/Commit]
+build_metadata.AdditionalFiles.SourceItemType = Constant
+build_metadata.Constant.Comment = 
+build_metadata.Constant.Value = 66abc90
+build_metadata.Constant.Root = Git
+
+[C:/Users/HAMI-PARS/source/repos/Company/Company/Sha]
+build_metadata.AdditionalFiles.SourceItemType = Constant
+build_metadata.Constant.Comment = 
+build_metadata.Constant.Value = 66abc904485ba1c49c17cd3f03b7541157cf24df
+build_metadata.Constant.Root = Git
+
+[C:/Users/HAMI-PARS/source/repos/Company/Company/CommitDate]
+build_metadata.AdditionalFiles.SourceItemType = Constant
+build_metadata.Constant.Comment = 
+build_metadata.Constant.Value = 2023-09-27T10:03:49+03:30
+build_metadata.Constant.Root = Git
+
+[C:/Users/HAMI-PARS/source/repos/Company/Company/Commits]
+build_metadata.AdditionalFiles.SourceItemType = Constant
+build_metadata.Constant.Comment = 
+build_metadata.Constant.Value = 3
+build_metadata.Constant.Root = Git
+
+[C:/Users/HAMI-PARS/source/repos/Company/Company/Tag]
+build_metadata.AdditionalFiles.SourceItemType = Constant
+build_metadata.Constant.Comment = 
+build_metadata.Constant.Value = 
+build_metadata.Constant.Root = Git
+
+[C:/Users/HAMI-PARS/source/repos/Company/Company/BaseTag]
+build_metadata.AdditionalFiles.SourceItemType = Constant
+build_metadata.Constant.Comment = 
+build_metadata.Constant.Value = 
+build_metadata.Constant.Root = Git
+
+[C:/Users/HAMI-PARS/source/repos/Company/Company/BaseVersion.Major]
+build_metadata.AdditionalFiles.SourceItemType = Constant
+build_metadata.Constant.Comment = 
+build_metadata.Constant.Value = 0
+build_metadata.Constant.Root = Git
+
+[C:/Users/HAMI-PARS/source/repos/Company/Company/BaseVersion.Minor]
+build_metadata.AdditionalFiles.SourceItemType = Constant
+build_metadata.Constant.Comment = 
+build_metadata.Constant.Value = 0
+build_metadata.Constant.Root = Git
+
+[C:/Users/HAMI-PARS/source/repos/Company/Company/BaseVersion.Patch]
+build_metadata.AdditionalFiles.SourceItemType = Constant
+build_metadata.Constant.Comment = 
+build_metadata.Constant.Value = 0
+build_metadata.Constant.Root = Git
+
+[C:/Users/HAMI-PARS/source/repos/Company/Company/SemVer.Major]
+build_metadata.AdditionalFiles.SourceItemType = Constant
+build_metadata.Constant.Comment = 
+build_metadata.Constant.Value = 0
+build_metadata.Constant.Root = Git
+
+[C:/Users/HAMI-PARS/source/repos/Company/Company/SemVer.Minor]
+build_metadata.AdditionalFiles.SourceItemType = Constant
+build_metadata.Constant.Comment = 
+build_metadata.Constant.Value = 0
+build_metadata.Constant.Root = Git
+
+[C:/Users/HAMI-PARS/source/repos/Company/Company/SemVer.Patch]
+build_metadata.AdditionalFiles.SourceItemType = Constant
+build_metadata.Constant.Comment = 
+build_metadata.Constant.Value = 3
+build_metadata.Constant.Root = Git
+
+[C:/Users/HAMI-PARS/source/repos/Company/Company/SemVer.Label]
+build_metadata.AdditionalFiles.SourceItemType = Constant
+build_metadata.Constant.Comment = 
+build_metadata.Constant.Value = 
+build_metadata.Constant.Root = Git
+
+[C:/Users/HAMI-PARS/source/repos/Company/Company/SemVer.DashLabel]
+build_metadata.AdditionalFiles.SourceItemType = Constant
+build_metadata.Constant.Comment = 
+build_metadata.Constant.Value = 
+build_metadata.Constant.Root = Git
+
+[C:/Users/HAMI-PARS/source/repos/Company/Company/SemVer.Source]
+build_metadata.AdditionalFiles.SourceItemType = Constant
+build_metadata.Constant.Comment = 
+build_metadata.Constant.Value = Default
+build_metadata.Constant.Root = Git
